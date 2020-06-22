@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/index.jsp=UTF-8
+encoding//config/druid.properties=UTF-8
+encoding//src/kj/dao/UserDao.java=GBK
+encoding//src/kj/dao/impl/UserDaoImpl.java=GBK
